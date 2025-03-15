@@ -2,8 +2,7 @@ import logging
 
 from dotenv import load_dotenv
 import os
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker
 
 load_dotenv()
 
@@ -31,9 +30,9 @@ def get_db_url(
     return f"{db_engine}://{db_user}:{db_pass}@{db_host}:{db_port}/{db_name}"
 
 
-sync_engine = create_engine(
+async_engine = create_async_engine(
     get_db_url(),
     isolation_level="REPEATABLE READ",
 )
 
-session_factory = sessionmaker(bind=sync_engine)
+session_factory = async_sessionmaker(bind=async_engine)
