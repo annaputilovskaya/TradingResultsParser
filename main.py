@@ -1,47 +1,28 @@
+import asyncio
 import logging
+from time import time
 
-from adapters.orm import start_mappers
-from config import session_factory
-from domain.model import TradingResult
-from service_layer.parser import get_new_trading_results_links, get_data_from_file
-from service_layer.utils import get_date_from_link
+from aiohttp import ClientSession
 
-from service_layer.tr_generator import generate_trading_result_objects
-
-HOST = "https://spimex.com"
+from adapters.orm import create_tables
+from config import configure_logging
+from service_layer.data_parser import parse_trading_results
+from service_layer.links_parser import get_new_trading_results_links
 
 log = logging.getLogger(__name__)
 
 
-def main(earliest_date: str = "20230101"):
+async def main(earliest_date: str = "20230101"):
     """Main function to parse and save trading results."""
-    links = get_new_trading_results_links(earliest_date)
-    for link in links:
-        with session_factory() as session:
-            result = (
-                session.query(TradingResult)
-                .filter_by(date=get_date_from_link(link))
-                .first()
-            )
-            if result:
-                log.warning(f"Trading results for {link} already exist, skipping.")
-                continue
-            else:
-                data = get_data_from_file(HOST + link)
-                for trading_result in generate_trading_result_objects(data, link):
-                    session.add(trading_result)
-                try:
-                    session.commit()
-                    log.info(f"Saved trading results from {link}.")
-                except Exception as e:
-                    log.error(f"Error saving trading results: {e} from {link}.")
-                    session.rollback()
-
-    log.info("Finished parsing and saving trading results.")
+    t0 = time()
+    await create_tables()
+    async with ClientSession() as session:
+        links = await get_new_trading_results_links(session, earliest_date)
+    await parse_trading_results(links)
+    log.warning(f"Finished. Execution time {time() - t0:.2f} seconds.")
 
 
 if __name__ == "__main__":
+    configure_logging()
     logging.basicConfig(level=logging.INFO)
-
-    start_mappers()
-    main()
+    asyncio.run(main())
