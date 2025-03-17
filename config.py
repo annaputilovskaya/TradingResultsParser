@@ -12,7 +12,12 @@ RESULTS_URL = HOST + "/markets/oil_products/trades/results"
 
 
 def configure_logging(level: int = logging.INFO) -> None:
-    """Configure logging with the specified level."""
+    """
+    Configures logging with the specified level.
+
+    Args:
+        level (int): The desired logging level. Defaults to logging.INFO.
+    """
 
     logging.basicConfig(
         level=level,
@@ -31,7 +36,20 @@ def get_db_url(
     db_user: str = os.environ.get("DB_USER"),
     db_pass: str = os.environ.get("DB_PASS"),
 ) -> str:
-    """Return a database URL based on environment variables."""
+    """
+    Return a database URL based on environment variables.
+
+    Args:
+        db_engine (str): The database engine (e.g., "postgresql+asyncpg").
+        db_name (str): The name of the database.
+        db_host (str): The host of the database server.
+        db_port (str): The port of the database server.
+        db_user (str): The username for connecting to the database.
+        db_pass (str): The password for connecting to the database.
+
+    Returns:
+        str: The constructed database URL.
+    """
 
     return f"{db_engine}://{db_user}:{db_pass}@{db_host}:{db_port}/{db_name}"
 

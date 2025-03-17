@@ -6,7 +6,16 @@ from service_layer.links_parser import get_date_from_link
 
 
 def generate_trading_result_objects(data: pd.DataFrame, link: str):
-    """Generates trading results objects from rows of DataFrame."""
+    """
+    Generates trading results objects from rows of DataFrame.
+
+    Args:
+        data (pd.DataFrame): DataFrame containing trading result data.
+        link (str): Link to the source data.
+
+    Yields:
+        ORMTradingResult: Trading result object in database.
+    """
     for i in range(1, len(data) - 2):
         row = data.iloc[i]
         if (

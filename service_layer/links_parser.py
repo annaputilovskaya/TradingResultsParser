@@ -12,7 +12,13 @@ log = logging.getLogger(__name__)
 
 def get_date_from_link(link: str) -> str:
     """
-    Extract date from the link.
+    Extracts date from the link.
+
+    Args:
+        link (str): The URL of the page containing the trading results.
+
+    Returns:
+        str: The date extracted from the link in the format "YYYYMMDD".
     """
     match = re.search(r"oil_xls_(\d{8})\d{6}", link)
     return match.group(1)
@@ -20,7 +26,14 @@ def get_date_from_link(link: str) -> str:
 
 async def get_html(url: str, session: ClientSession) -> str | None:
     """
-    Send a GET request to the given URL and return the response data.
+    Sends a GET request to the given URL and returns the response data.
+
+    Args:
+        url (str): The URL to fetch data from.
+        session (ClientSession): The aiohttp ClientSession object.
+
+    Returns:
+        str | None: The response data as a string or None if an error occurred.
     """
     try:
         async with session.get(url) as response:
@@ -35,8 +48,14 @@ async def get_new_trading_results_links(
     session: ClientSession, earliest_date: str = "20230101"
 ) -> set[str]:
     """
-    Get unique links to XLS files with daily trading results
-    from the SPIMEX website.
+    Get unique links to XLS files with daily trading results from the website.
+
+    Args:
+        session (ClientSession): The aiohttp ClientSession object.
+        earliest_date (str, optional): The earliest date to consider in the format "YYYYMMDD".
+
+    Returns:
+        set[str]: The unique links to XLS files with daily trading results.
     """
     t0 = time()
     page_num = 1

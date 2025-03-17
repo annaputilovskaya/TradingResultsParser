@@ -13,7 +13,12 @@ log = logging.getLogger(__name__)
 
 
 async def main(earliest_date: str = "20230101"):
-    """Main function to parse and save trading results."""
+    """
+    Main function to parse and save trading results.
+
+    Args:
+        earliest_date (str): The earliest date for which to retrieve trading results. Defaults to "20230101".
+    """
     t0 = time()
     await create_tables()
     async with ClientSession() as session:
@@ -24,5 +29,4 @@ async def main(earliest_date: str = "20230101"):
 
 if __name__ == "__main__":
     configure_logging()
-    logging.basicConfig(level=logging.INFO)
     asyncio.run(main())

@@ -15,7 +15,14 @@ log = logging.getLogger(__name__)
 
 async def get_bytes(url: str, session: ClientSession) -> bytes | None:
     """
-    Send a GET request to the given URL and return the response bytes.
+    Sends a GET async request to the given URL and returns the response bytes.
+
+    Args:
+        url (str): The URL to send the GET request to.
+        session (ClientSession): The aiohttp ClientSession to use for the request.
+
+    Returns:
+        bytes: The response bytes from the GET request or None if an error occurred.
     """
     try:
         async with session.get(url) as response:
@@ -28,7 +35,13 @@ async def get_bytes(url: str, session: ClientSession) -> bytes | None:
 
 def extract_data_from_file(data: bytes) -> pd.DataFrame | None:
     """
-    Read data from an XLS file and filter it based on certain conditions.
+    Reads data from an XLS file and filter it based on certain conditions.
+
+    Args:
+        data (bytes): The XLS file data to read.
+
+    Returns:
+        pd.DataFrame: The filtered DataFrame or None if an error occurred.
     """
     file = pd.read_excel(BytesIO(data), index_col=False)
     rows, cols = numpy.where(file == "Единица измерения: Метрическая тонна")
@@ -44,7 +57,14 @@ def extract_data_from_file(data: bytes) -> pd.DataFrame | None:
 
 async def get_data_by_link(link: str) -> pd.DataFrame | None:
     """
-    Send a GET request to the given URL, extract data from the XLS file, and return the DataFrame and the URL.
+    Sends a GET request to the given URL, extracts data from the XLS file.
+
+    Args:
+        link (str): The URL to send the GET request to.
+
+    Returns:
+        pd.DataFrame: The filtered DataFrame or None if an error occurred.
+        str: The link from which the data was fetched.
     """
     t0 = time()
     async with ClientSession() as session:
@@ -63,6 +83,9 @@ async def get_data_by_link(link: str) -> pd.DataFrame | None:
 async def write_to_db(results_list: list) -> None:
     """
     Save the given trading results to the database.
+
+    Args:
+        results_list (list): The list of TradingResult objects to save to the database.
     """
     t0 = time()
     log.info(f"Start writing results to db.")
@@ -80,7 +103,10 @@ async def write_to_db(results_list: list) -> None:
 
 async def parse_trading_results(links: set) -> None:
     """
-    Parse trading results from the given links and save them to the database.
+    Parses trading results from the given links and saves them to the database.
+
+    Args:
+        links (set): The set of URLs to fetch trading results from.
     """
     t0 = time()
     tasks = []
