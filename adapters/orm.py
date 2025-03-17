@@ -1,32 +1,44 @@
-from sqlalchemy import Table, Column, Integer, String, DateTime
-from sqlalchemy.orm import registry
+from datetime import datetime
+
+from sqlalchemy import String, DateTime, text, func
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
 from config import async_engine
-from domain.model import TradingResult
-
-mapper_registry = registry()
-
-spimex_trading_results = Table(
-    "spimex_trading_results",
-    mapper_registry.metadata,
-    Column("id", Integer, primary_key=True, autoincrement=True),
-    Column("exchange_product_id", String(30)),
-    Column("exchange_product_name", String(255)),
-    Column("oil_id", String(30)),
-    Column("delivery_basis_id", String(30)),
-    Column("delivery_basis_name", String(255)),
-    Column("delivery_type_id", String(30)),
-    Column("volume", Integer),
-    Column("total", Integer),
-    Column("count", Integer),
-    Column("date", String(8)),
-    Column("created_on", DateTime),
-    Column("updated_on", DateTime, nullable=True),
-)
 
 
-def start_mappers():
-    """Create the mapping between the database table and the TradingResult class."""
+class Base(DeclarativeBase):
+    __abstract__ = True
 
-    mapper_registry.metadata.create_all(async_engine)
-    mapper_registry.map_imperatively(TradingResult, spimex_trading_results)
+    id: Mapped[int] = mapped_column(primary_key=True)
+
+
+class ORMTradingResult(Base):
+    """Trading result model in database."""
+
+    __tablename__ = "spimex_trading_results"
+
+    exchange_product_id: Mapped[str] = mapped_column(String(30))
+    exchange_product_name: Mapped[str] = mapped_column(String(255))
+    oil_id: Mapped[str] = mapped_column(String(4))
+    delivery_basis_id: Mapped[str] = mapped_column(String(3))
+    delivery_basis_name: Mapped[str] = mapped_column(String(255))
+    delivery_type_id: Mapped[str] = mapped_column(String(1))
+    volume: Mapped[int]
+    total: Mapped[int]
+    count: Mapped[int]
+    date: Mapped[str] = mapped_column(String(8), index=True)
+    created_on: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=text("timezone('utc', now())"),
+    )
+    updated_on: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=text("timezone('utc', now())"),
+        onupdate=func.now(),
+    )
+
+
+async def create_tables():
+    async with async_engine.begin() as conn:
+        await conn.run_sync(Base.metadata.drop_all)
+        await conn.run_sync(Base.metadata.create_all)
