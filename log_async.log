@@ -1,0 +1,1090 @@
+[2025-03-17 08:51:44.602] INFO     get_new_trading_results_links links_parser:44 - Start getting links from the website...
+[2025-03-17 08:52:15.881] WARNING  get_new_trading_results_links links_parser:65 - Got links from the website. Execution time 31.28 seconds.
+[2025-03-17 08:52:15.980] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250124162000.xls?r=7927
+[2025-03-17 08:52:15.980] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230215162000.xls?r=9903
+[2025-03-17 08:52:15.980] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231201162000.xls?r=1090
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240722162000.xls?r=6761
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231017162000.xls?r=7373
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240226162000.xls?r=5418
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230828162000.xls?r=4491
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240111162000.xls?r=7264
+[2025-03-17 08:52:15.981] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230412162000.xls?r=8652
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240902162000.xls?r=6855
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241209162000.xls?r=3508
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250226162000.xls?r=4527
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230914162000.xls?r=7808
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240424162000.xls?r=9742
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241025162000.xls?r=2952
+[2025-03-17 08:52:15.982] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230315162000.xls?r=4124
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230802162000.xls?r=3335
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230530162000.xls?r=2466
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240115162000.xls?r=9906
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230323162000.xls?r=4169
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240809162000.xls?r=2339
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241022162000.xls?r=4624
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240401162000.xls?r=1946
+[2025-03-17 08:52:15.983] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230120162000.xls?r=7760
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240327162000.xls?r=3426
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241002162000.xls?r=1790
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231009162000.xls?r=9921
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240708162000.xls?r=8476
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240206162000.xls?r=2075
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240906162000.xls?r=2634
+[2025-03-17 08:52:15.984] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240214162000.xls?r=5130
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240918162000.xls?r=1801
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250312162000.xls?r=5430
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241007162000.xls?r=2531
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230118162000.xls?r=1899
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240427162000.xls?r=1908
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240531162000.xls?r=9125
+[2025-03-17 08:52:15.985] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241219162000.xls?r=6718
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230905162000.xls?r=4821
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230302162000.xls?r=4282
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230929162000.xls?r=5881
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240909162000.xls?r=7960
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240506162000.xls?r=2019
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230728162000.xls?r=8537
+[2025-03-17 08:52:15.986] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250224162000.xls?r=2804
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231012162000.xls?r=5196
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241206162000.xls?r=4742
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231218162000.xls?r=7837
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240926162000.xls?r=9449
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240521162000.xls?r=9029
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240816162000.xls?r=7859
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231018162000.xls?r=5248
+[2025-03-17 08:52:15.987] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231215162000.xls?r=4889
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240418162000.xls?r=4389
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230203162000.xls?r=6937
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250121162000.xls?r=2211
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240927162000.xls?r=4535
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230405162000.xls?r=2828
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240126162000.xls?r=5122
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230516162000.xls?r=9016
+[2025-03-17 08:52:15.988] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240423162000.xls?r=6821
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230731162000.xls?r=3525
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241003162000.xls?r=7738
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230615162000.xls?r=7661
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231214162000.xls?r=4019
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230518162000.xls?r=8132
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250227162000.xls?r=9399
+[2025-03-17 08:52:15.989] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231025162000.xls?r=7726
+[2025-03-17 08:52:15.990] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240405162000.xls?r=7342
+[2025-03-17 08:52:15.990] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240904162000.xls?r=5771
+[2025-03-17 08:52:15.990] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230404162000.xls?r=2955
+[2025-03-17 08:52:15.990] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230220162000.xls?r=4231
+[2025-03-17 08:52:15.990] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230607162000.xls?r=8139
+[2025-03-17 08:52:15.991] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231006162000.xls?r=2812
+[2025-03-17 08:52:15.991] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240730162000.xls?r=7422
+[2025-03-17 08:52:15.991] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250110162000.xls?r=6548
+[2025-03-17 08:52:15.992] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241126162000.xls?r=8562
+[2025-03-17 08:52:15.992] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240312162000.xls?r=8061
+[2025-03-17 08:52:15.992] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240208162000.xls?r=1837
+[2025-03-17 08:52:15.992] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230921162000.xls?r=4789
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240710162000.xls?r=3442
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230720162000.xls?r=7669
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230623162000.xls?r=1262
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240619162000.xls?r=8054
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231212162000.xls?r=1256
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230825162000.xls?r=3488
+[2025-03-17 08:52:15.993] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241108162000.xls?r=5700
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240402162000.xls?r=1680
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230126162000.xls?r=8457
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231107162000.xls?r=5511
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230208162000.xls?r=5989
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230721162000.xls?r=4647
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230307162000.xls?r=8544
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240117162000.xls?r=2844
+[2025-03-17 08:52:15.994] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231102162000.xls?r=4247
+[2025-03-17 08:52:15.995] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230130162000.xls?r=4052
+[2025-03-17 08:52:15.995] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240725162000.xls?r=8548
+[2025-03-17 08:52:15.995] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241105162000.xls?r=5230
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231225162000.xls?r=4025
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230606162000.xls?r=2443
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230815162000.xls?r=1879
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230418162000.xls?r=9985
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241220162000.xls?r=5501
+[2025-03-17 08:52:15.996] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241120162000.xls?r=9129
+[2025-03-17 08:52:15.997] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240624162000.xls?r=8673
+[2025-03-17 08:52:15.997] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230301162000.xls?r=7046
+[2025-03-17 08:52:15.997] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231128162000.xls?r=2395
+[2025-03-17 08:52:15.997] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230127162000.xls?r=8617
+[2025-03-17 08:52:15.997] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230111162000.xls?r=7576
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240920162000.xls?r=4359
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230310162000.xls?r=3968
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240328162000.xls?r=2874
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240213162000.xls?r=4705
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241225162000.xls?r=5300
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240116162000.xls?r=7538
+[2025-03-17 08:52:15.998] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240529162000.xls?r=5468
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231120162000.xls?r=6228
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230619162000.xls?r=8193
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230821162000.xls?r=5696
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240220162000.xls?r=1174
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230216162000.xls?r=8694
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240628162000.xls?r=5476
+[2025-03-17 08:52:15.999] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230928162000.xls?r=8439
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240313162000.xls?r=1416
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241102162000.xls?r=3349
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231115162000.xls?r=2184
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241212162000.xls?r=4483
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241018162000.xls?r=6292
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231207162000.xls?r=2248
+[2025-03-17 08:52:16.000] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231011162000.xls?r=9878
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231127162000.xls?r=9841
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240507162000.xls?r=1429
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240620162000.xls?r=8368
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230630162000.xls?r=6351
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230328162000.xls?r=2095
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240821162000.xls?r=5059
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250221162000.xls?r=5043
+[2025-03-17 08:52:16.001] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230420162000.xls?r=5654
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230110162000.xls?r=8590
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230801162000.xls?r=4939
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240814162000.xls?r=2854
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240916162000.xls?r=9216
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240703162000.xls?r=2269
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240523162000.xls?r=7762
+[2025-03-17 08:52:16.002] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231208162000.xls?r=3715
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230710162000.xls?r=4231
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240826162000.xls?r=5333
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231026162000.xls?r=3804
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240124162000.xls?r=5992
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240604162000.xls?r=3677
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240319162000.xls?r=8051
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230306162000.xls?r=8321
+[2025-03-17 08:52:16.003] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240724162000.xls?r=3782
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240520162000.xls?r=5111
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240626162000.xls?r=7108
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231227162000.xls?r=1358
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240711162000.xls?r=9894
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230112162000.xls?r=6433
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250131162000.xls?r=8685
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241203162000.xls?r=6409
+[2025-03-17 08:52:16.004] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230505162000.xls?r=5590
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250313162000.xls?r=2393
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240318162000.xls?r=1420
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230906162000.xls?r=9109
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240813162000.xls?r=5679
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240610162000.xls?r=1757
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230217162000.xls?r=3945
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250116162000.xls?r=1453
+[2025-03-17 08:52:16.005] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241021162000.xls?r=6406
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230206162000.xls?r=5507
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240419162000.xls?r=3497
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240627162000.xls?r=5740
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241228162000.xls?r=6181
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240514162000.xls?r=2484
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240919162000.xls?r=5804
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240528162000.xls?r=5257
+[2025-03-17 08:52:16.006] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240306162000.xls?r=7036
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230316162000.xls?r=5669
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240325162000.xls?r=3934
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240215162000.xls?r=8998
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240305162000.xls?r=3360
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240411162000.xls?r=5299
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230626162000.xls?r=6874
+[2025-03-17 08:52:16.007] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241204162000.xls?r=4596
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231003162000.xls?r=6652
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230313162000.xls?r=7595
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231109162000.xls?r=5190
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250115162000.xls?r=6310
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231024162000.xls?r=1601
+[2025-03-17 08:52:16.008] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230309162000.xls?r=4974
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241129162000.xls?r=4041
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240712162000.xls?r=8565
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230124162000.xls?r=2004
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230616162000.xls?r=2734
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230531162000.xls?r=4685
+[2025-03-17 08:52:16.009] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231010162000.xls?r=7149
+[2025-03-17 08:52:16.010] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230515162000.xls?r=1893
+[2025-03-17 08:52:16.011] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240408162000.xls?r=2480
+[2025-03-17 08:52:16.011] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250127162000.xls?r=4104
+[2025-03-17 08:52:16.011] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240415162000.xls?r=1777
+[2025-03-17 08:52:16.011] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240723162000.xls?r=6101
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231020162000.xls?r=6071
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230207162000.xls?r=4167
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240829162000.xls?r=9467
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230706162000.xls?r=6234
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230417162000.xls?r=4890
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230117162000.xls?r=4138
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240801162000.xls?r=2480
+[2025-03-17 08:52:16.012] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230131162000.xls?r=5283
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240122162000.xls?r=3685
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240517162000.xls?r=8609
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240618162000.xls?r=2014
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240403162000.xls?r=2319
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240209162000.xls?r=5541
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240613162000.xls?r=5753
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230829162000.xls?r=4623
+[2025-03-17 08:52:16.013] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241028162000.xls?r=2062
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250123162000.xls?r=2328
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240229162000.xls?r=4604
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230503162000.xls?r=8183
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230322162000.xls?r=2407
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240606162000.xls?r=5272
+[2025-03-17 08:52:16.014] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230621162000.xls?r=2844
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240614162000.xls?r=8272
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230808162000.xls?r=3623
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230807162000.xls?r=2493
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230719162000.xls?r=7075
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241010162000.xls?r=9762
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230201162000.xls?r=9317
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240715162000.xls?r=9592
+[2025-03-17 08:52:16.015] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240718162000.xls?r=7098
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240301162000.xls?r=4056
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231114162000.xls?r=7351
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230524162000.xls?r=7570
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241121162000.xls?r=6290
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230504162000.xls?r=6583
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240314162000.xls?r=5994
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240917162000.xls?r=8367
+[2025-03-17 08:52:16.016] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241107162000.xls?r=1737
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241115162000.xls?r=6767
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230922162000.xls?r=8685
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241216162000.xls?r=7001
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230125162000.xls?r=3255
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230413162000.xls?r=6589
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230529162000.xls?r=4367
+[2025-03-17 08:52:16.017] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250203162000.xls?r=4012
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240131162000.xls?r=9022
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230517162000.xls?r=4451
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230831162000.xls?r=5753
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240412162000.xls?r=8629
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240410162000.xls?r=4511
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231122162000.xls?r=3337
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240705162000.xls?r=4050
+[2025-03-17 08:52:16.018] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240807162000.xls?r=7909
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230214162000.xls?r=4440
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250114162000.xls?r=1466
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231205162000.xls?r=8023
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230713162000.xls?r=9850
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240307162000.xls?r=3024
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230421162000.xls?r=6425
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240123162000.xls?r=6317
+[2025-03-17 08:52:16.019] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230727162000.xls?r=9267
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240409162000.xls?r=7077
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240726162000.xls?r=3486
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230314162000.xls?r=8786
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250210162000.xls?r=5681
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250307162000.xls?r=3397
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241001162000.xls?r=5966
+[2025-03-17 08:52:16.020] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250217162000.xls?r=1959
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231013162000.xls?r=8377
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230523162000.xls?r=5987
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230726162000.xls?r=5469
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231113162000.xls?r=6846
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240805162000.xls?r=7870
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240701162000.xls?r=6439
+[2025-03-17 08:52:16.021] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240731162000.xls?r=2546
+[2025-03-17 08:52:16.022] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230502162000.xls?r=2493
+[2025-03-17 08:52:16.022] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240320162000.xls?r=9738
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231023162000.xls?r=3537
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231211162000.xls?r=6293
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230809162000.xls?r=4619
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240329162000.xls?r=5432
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230303162000.xls?r=6241
+[2025-03-17 08:52:16.023] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241125162000.xls?r=9462
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241106162000.xls?r=5876
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230704162000.xls?r=1753
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241119162000.xls?r=1488
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240326162000.xls?r=2068
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240524162000.xls?r=4042
+[2025-03-17 08:52:16.024] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230317162000.xls?r=6003
+[2025-03-17 08:52:16.025] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231110162000.xls?r=2352
+[2025-03-17 08:52:16.025] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240112162000.xls?r=8523
+[2025-03-17 08:52:16.025] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230705162000.xls?r=7082
+[2025-03-17 08:52:16.025] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240201162000.xls?r=1255
+[2025-03-17 08:52:16.025] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240830162000.xls?r=6709
+[2025-03-17 08:52:16.026] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241127162000.xls?r=3075
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250214162000.xls?r=2497
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230718162000.xls?r=7741
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240603162000.xls?r=1026
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250206162000.xls?r=8940
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240422162000.xls?r=3574
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230414162000.xls?r=9987
+[2025-03-17 08:52:16.027] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230407162000.xls?r=2763
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231228162000.xls?r=5127
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240905162000.xls?r=4430
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240729162000.xls?r=1882
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230512162000.xls?r=3521
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241017162000.xls?r=1687
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230926162000.xls?r=7440
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250305162000.xls?r=9907
+[2025-03-17 08:52:16.028] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230601162000.xls?r=6862
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230419162000.xls?r=8269
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240207162000.xls?r=8826
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230331162000.xls?r=4362
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240709162000.xls?r=5421
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240503162000.xls?r=5146
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240416162000.xls?r=2133
+[2025-03-17 08:52:16.029] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250303162000.xls?r=5100
+[2025-03-17 08:52:16.030] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230927162000.xls?r=2020
+[2025-03-17 08:52:16.030] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230519162000.xls?r=8903
+[2025-03-17 08:52:16.030] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230213162000.xls?r=8868
+[2025-03-17 08:52:16.030] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240930162000.xls?r=8771
+[2025-03-17 08:52:16.030] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230814162000.xls?r=4711
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230410162000.xls?r=7152
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230426162000.xls?r=5988
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240911162000.xls?r=9275
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240903162000.xls?r=5492
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231226162000.xls?r=9604
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230823162000.xls?r=2339
+[2025-03-17 08:52:16.031] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230620162000.xls?r=7537
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240513162000.xls?r=4361
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240621162000.xls?r=6836
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230608162000.xls?r=7483
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240219162000.xls?r=3279
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241128162000.xls?r=5921
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231002162000.xls?r=5653
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230622162000.xls?r=2387
+[2025-03-17 08:52:16.032] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230329162000.xls?r=9066
+[2025-03-17 08:52:16.033] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230222162000.xls?r=3551
+[2025-03-17 08:52:16.033] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240923162000.xls?r=5884
+[2025-03-17 08:52:16.033] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230703162000.xls?r=6744
+[2025-03-17 08:52:16.033] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250311162000.xls?r=5689
+[2025-03-17 08:52:16.033] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230210162000.xls?r=5059
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240808162000.xls?r=6061
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230403162000.xls?r=6346
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230912162000.xls?r=2117
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250310162000.xls?r=2929
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231206162000.xls?r=8078
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230714162000.xls?r=4195
+[2025-03-17 08:52:16.034] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240812162000.xls?r=5261
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230602162000.xls?r=4691
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250219162000.xls?r=7871
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230628162000.xls?r=9646
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230804162000.xls?r=1848
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241205162000.xls?r=8890
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241029162000.xls?r=8081
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240716162000.xls?r=4393
+[2025-03-17 08:52:16.035] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230227162000.xls?r=7037
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250128162000.xls?r=9123
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240311162000.xls?r=6146
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240822162000.xls?r=8079
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250304162000.xls?r=1528
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230119162000.xls?r=9734
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240823162000.xls?r=6610
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240508162000.xls?r=6945
+[2025-03-17 08:52:16.036] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240912162000.xls?r=5784
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240119162000.xls?r=1692
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241211162000.xls?r=4770
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230907162000.xls?r=3768
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230605162000.xls?r=5296
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241118162000.xls?r=8133
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250218162000.xls?r=6549
+[2025-03-17 08:52:16.037] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250225162000.xls?r=7963
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240702162000.xls?r=3873
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240617162000.xls?r=2515
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241014162000.xls?r=7092
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240304162000.xls?r=8373
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240502162000.xls?r=9555
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231031162000.xls?r=7861
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230425162000.xls?r=5819
+[2025-03-17 08:52:16.038] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230209162000.xls?r=1987
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241218162000.xls?r=9004
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250212162000.xls?r=6970
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250117162000.xls?r=7547
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241111162000.xls?r=2838
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230724162000.xls?r=3615
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231005162000.xls?r=2369
+[2025-03-17 08:52:16.039] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250205162000.xls?r=5213
+[2025-03-17 08:52:16.040] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230428162000.xls?r=5434
+[2025-03-17 08:52:16.040] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231229162000.xls?r=1414
+[2025-03-17 08:52:16.040] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230427162000.xls?r=1017
+[2025-03-17 08:52:16.040] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241224162000.xls?r=6962
+[2025-03-17 08:52:16.041] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241202162000.xls?r=2135
+[2025-03-17 08:52:16.041] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231116162000.xls?r=5754
+[2025-03-17 08:52:16.041] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240222162000.xls?r=4811
+[2025-03-17 08:52:16.042] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231221162000.xls?r=7651
+[2025-03-17 08:52:16.043] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240109162000.xls?r=8882
+[2025-03-17 08:52:16.043] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230707162000.xls?r=3262
+[2025-03-17 08:52:16.043] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241112162000.xls?r=7468
+[2025-03-17 08:52:16.043] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230803162000.xls?r=2226
+[2025-03-17 08:52:16.043] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230712162000.xls?r=8876
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231101162000.xls?r=9478
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230816162000.xls?r=8507
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250211162000.xls?r=1055
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240426162000.xls?r=9917
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250220162000.xls?r=5646
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230526162000.xls?r=7218
+[2025-03-17 08:52:16.044] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230817162000.xls?r=1342
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240216162000.xls?r=6867
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241008162000.xls?r=8069
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250109162000.xls?r=8468
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230324162000.xls?r=3777
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241213162000.xls?r=1103
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241114162000.xls?r=2949
+[2025-03-17 08:52:16.045] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230919162000.xls?r=3997
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230711162000.xls?r=9254
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230913162000.xls?r=5582
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240322162000.xls?r=1885
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230918162000.xls?r=2828
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230123162000.xls?r=8012
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240404162000.xls?r=4655
+[2025-03-17 08:52:16.046] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231103162000.xls?r=5436
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240516162000.xls?r=9757
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250306162000.xls?r=6148
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240130162000.xls?r=3352
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240228162000.xls?r=3049
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230901162000.xls?r=9934
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240212162000.xls?r=4419
+[2025-03-17 08:52:16.047] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241113162000.xls?r=1911
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230920162000.xls?r=5890
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230113162000.xls?r=3759
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240924162000.xls?r=1838
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241016162000.xls?r=4909
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230522162000.xls?r=9819
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230320162000.xls?r=2383
+[2025-03-17 08:52:16.048] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231219162000.xls?r=4448
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230406162000.xls?r=6482
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240607162000.xls?r=3994
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231130162000.xls?r=2461
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230629162000.xls?r=6862
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230411162000.xls?r=7907
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240515162000.xls?r=9032
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240227162000.xls?r=5377
+[2025-03-17 08:52:16.049] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231121162000.xls?r=7650
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240828162000.xls?r=9867
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240913162000.xls?r=2242
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240315162000.xls?r=9707
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231117162000.xls?r=2583
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250120162000.xls?r=8612
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230822162000.xls?r=6458
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240820162000.xls?r=7919
+[2025-03-17 08:52:16.050] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241030162000.xls?r=4721
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230818162000.xls?r=7823
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241004162000.xls?r=9404
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231027162000.xls?r=2913
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240118162000.xls?r=5711
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250207162000.xls?r=2617
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231030162000.xls?r=9186
+[2025-03-17 08:52:16.051] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230911162000.xls?r=5400
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231108162000.xls?r=9312
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240522162000.xls?r=7284
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240819162000.xls?r=6023
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230908162000.xls?r=7322
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230824162000.xls?r=7997
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230717162000.xls?r=7006
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241101162000.xls?r=6713
+[2025-03-17 08:52:16.052] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240321162000.xls?r=5944
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241011162000.xls?r=2721
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241023162000.xls?r=7839
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230915162000.xls?r=8613
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231016162000.xls?r=8213
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241226162000.xls?r=3191
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240205162000.xls?r=3916
+[2025-03-17 08:52:16.053] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250122162000.xls?r=4016
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230327162000.xls?r=7455
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240925162000.xls?r=2090
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230811162000.xls?r=1976
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240221162000.xls?r=8873
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231213162000.xls?r=2267
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241024162000.xls?r=3822
+[2025-03-17 08:52:16.054] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230725162000.xls?r=1028
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230925162000.xls?r=2814
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250314162000.xls?r=6241
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240125162000.xls?r=1953
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230116162000.xls?r=2825
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250113162000.xls?r=7373
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240110162000.xls?r=6815
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241227162000.xls?r=5570
+[2025-03-17 08:52:16.055] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230511162000.xls?r=5106
+[2025-03-17 08:52:16.056] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230109162000.xls?r=7150
+[2025-03-17 08:52:16.056] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231124162000.xls?r=4883
+[2025-03-17 08:52:16.056] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240417162000.xls?r=3253
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230810162000.xls?r=9279
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230330162000.xls?r=3457
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230228162000.xls?r=3472
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230202162000.xls?r=3310
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240425162000.xls?r=8559
+[2025-03-17 08:52:16.057] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230609162000.xls?r=9101
+[2025-03-17 08:52:16.058] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241217162000.xls?r=4713
+[2025-03-17 08:52:16.058] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241015162000.xls?r=2290
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240530162000.xls?r=8064
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240202162000.xls?r=4370
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230614162000.xls?r=7208
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240827162000.xls?r=4293
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230424162000.xls?r=4958
+[2025-03-17 08:52:16.059] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230627162000.xls?r=9189
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240815162000.xls?r=9202
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230221162000.xls?r=3750
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230904162000.xls?r=1908
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240719162000.xls?r=3198
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231220162000.xls?r=2794
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250129162000.xls?r=5688
+[2025-03-17 08:52:16.060] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241210162000.xls?r=4726
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250213162000.xls?r=6789
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231222162000.xls?r=6506
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240802162000.xls?r=1685
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240806162000.xls?r=8230
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231204162000.xls?r=7857
+[2025-03-17 08:52:16.061] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230510162000.xls?r=8073
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241223162000.xls?r=2775
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230613162000.xls?r=2028
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240527162000.xls?r=6961
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231019162000.xls?r=8168
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231129162000.xls?r=2514
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231123162000.xls?r=9563
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240605162000.xls?r=6275
+[2025-03-17 08:52:16.062] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241009162000.xls?r=9334
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240910162000.xls?r=7296
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250204162000.xls?r=1541
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240129162000.xls?r=8953
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240611162000.xls?r=3072
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230525162000.xls?r=9960
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240704162000.xls?r=4370
+[2025-03-17 08:52:16.063] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240625162000.xls?r=6105
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250228162000.xls?r=8654
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20250130162000.xls?r=9224
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230830162000.xls?r=5525
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20230321162000.xls?r=3037
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241122162000.xls?r=4352
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20231004162000.xls?r=2915
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20240717162000.xls?r=2232
+[2025-03-17 08:52:16.064] INFO         get_data_by_link data_parser:52 - Started reading https://spimex.com/upload/reports/oil_xls/oil_xls_20241031162000.xls?r=9616
+[2025-03-17 08:52:17.337] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 1.36 seconds.
+[2025-03-17 08:52:17.381] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 1.40 seconds.
+[2025-03-17 08:52:17.413] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 1.43 seconds.
+[2025-03-17 08:52:18.025] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.04 seconds.
+[2025-03-17 08:52:18.135] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.15 seconds.
+[2025-03-17 08:52:18.171] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.19 seconds.
+[2025-03-17 08:52:18.207] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.22 seconds.
+[2025-03-17 08:52:18.247] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.26 seconds.
+[2025-03-17 08:52:18.284] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.30 seconds.
+[2025-03-17 08:52:18.315] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.33 seconds.
+[2025-03-17 08:52:18.351] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.37 seconds.
+[2025-03-17 08:52:18.399] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.42 seconds.
+[2025-03-17 08:52:18.437] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.45 seconds.
+[2025-03-17 08:52:18.591] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.61 seconds.
+[2025-03-17 08:52:18.628] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.65 seconds.
+[2025-03-17 08:52:18.669] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.69 seconds.
+[2025-03-17 08:52:18.714] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.73 seconds.
+[2025-03-17 08:52:18.757] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.78 seconds.
+[2025-03-17 08:52:18.815] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.83 seconds.
+[2025-03-17 08:52:18.868] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.89 seconds.
+[2025-03-17 08:52:18.911] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.93 seconds.
+[2025-03-17 08:52:18.947] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 2.96 seconds.
+[2025-03-17 08:52:18.986] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.00 seconds.
+[2025-03-17 08:52:19.033] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.05 seconds.
+[2025-03-17 08:52:19.090] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.10 seconds.
+[2025-03-17 08:52:19.129] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.14 seconds.
+[2025-03-17 08:52:19.175] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.19 seconds.
+[2025-03-17 08:52:19.223] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.23 seconds.
+[2025-03-17 08:52:19.274] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.29 seconds.
+[2025-03-17 08:52:19.320] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.33 seconds.
+[2025-03-17 08:52:19.362] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.37 seconds.
+[2025-03-17 08:52:19.401] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.41 seconds.
+[2025-03-17 08:52:19.448] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.46 seconds.
+[2025-03-17 08:52:19.622] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.63 seconds.
+[2025-03-17 08:52:19.734] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.74 seconds.
+[2025-03-17 08:52:19.768] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.77 seconds.
+[2025-03-17 08:52:19.809] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.81 seconds.
+[2025-03-17 08:52:19.861] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.86 seconds.
+[2025-03-17 08:52:19.907] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.92 seconds.
+[2025-03-17 08:52:19.939] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.95 seconds.
+[2025-03-17 08:52:19.975] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 3.98 seconds.
+[2025-03-17 08:52:20.011] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.02 seconds.
+[2025-03-17 08:52:20.043] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.05 seconds.
+[2025-03-17 08:52:20.088] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.09 seconds.
+[2025-03-17 08:52:20.145] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.14 seconds.
+[2025-03-17 08:52:20.190] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.19 seconds.
+[2025-03-17 08:52:20.227] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.22 seconds.
+[2025-03-17 08:52:20.263] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.26 seconds.
+[2025-03-17 08:52:20.325] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.33 seconds.
+[2025-03-17 08:52:20.378] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.37 seconds.
+[2025-03-17 08:52:20.415] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.42 seconds.
+[2025-03-17 08:52:20.453] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.45 seconds.
+[2025-03-17 08:52:20.485] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.48 seconds.
+[2025-03-17 08:52:20.535] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.51 seconds.
+[2025-03-17 08:52:20.587] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.56 seconds.
+[2025-03-17 08:52:20.631] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.60 seconds.
+[2025-03-17 08:52:20.664] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.64 seconds.
+[2025-03-17 08:52:20.699] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.67 seconds.
+[2025-03-17 08:52:20.864] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.88 seconds.
+[2025-03-17 08:52:20.927] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.95 seconds.
+[2025-03-17 08:52:20.966] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 4.98 seconds.
+[2025-03-17 08:52:21.006] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.02 seconds.
+[2025-03-17 08:52:21.045] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.05 seconds.
+[2025-03-17 08:52:21.089] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.09 seconds.
+[2025-03-17 08:52:21.145] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.16 seconds.
+[2025-03-17 08:52:21.184] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.18 seconds.
+[2025-03-17 08:52:21.227] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.23 seconds.
+[2025-03-17 08:52:21.268] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.27 seconds.
+[2025-03-17 08:52:21.318] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.32 seconds.
+[2025-03-17 08:52:21.373] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.39 seconds.
+[2025-03-17 08:52:21.413] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.41 seconds.
+[2025-03-17 08:52:21.454] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.41 seconds.
+[2025-03-17 08:52:21.495] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.49 seconds.
+[2025-03-17 08:52:21.551] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.51 seconds.
+[2025-03-17 08:52:21.599] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.57 seconds.
+[2025-03-17 08:52:21.638] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.59 seconds.
+[2025-03-17 08:52:21.674] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.61 seconds.
+[2025-03-17 08:52:21.716] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.66 seconds.
+[2025-03-17 08:52:21.762] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.71 seconds.
+[2025-03-17 08:52:21.809] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.76 seconds.
+[2025-03-17 08:52:21.845] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.79 seconds.
+[2025-03-17 08:52:21.883] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.82 seconds.
+[2025-03-17 08:52:21.920] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.86 seconds.
+[2025-03-17 08:52:21.959] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.90 seconds.
+[2025-03-17 08:52:22.013] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 5.96 seconds.
+[2025-03-17 08:52:22.056] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.00 seconds.
+[2025-03-17 08:52:22.089] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.09 seconds.
+[2025-03-17 08:52:22.125] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.08 seconds.
+[2025-03-17 08:52:22.300] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.30 seconds.
+[2025-03-17 08:52:22.359] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.38 seconds.
+[2025-03-17 08:52:22.402] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.42 seconds.
+[2025-03-17 08:52:22.458] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.47 seconds.
+[2025-03-17 08:52:22.494] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.50 seconds.
+[2025-03-17 08:52:22.536] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.54 seconds.
+[2025-03-17 08:52:22.574] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.59 seconds.
+[2025-03-17 08:52:22.614] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.63 seconds.
+[2025-03-17 08:52:22.652] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.66 seconds.
+[2025-03-17 08:52:22.697] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.70 seconds.
+[2025-03-17 08:52:22.752] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.76 seconds.
+[2025-03-17 08:52:22.788] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.80 seconds.
+[2025-03-17 08:52:22.828] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.84 seconds.
+[2025-03-17 08:52:22.861] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.87 seconds.
+[2025-03-17 08:52:22.904] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.91 seconds.
+[2025-03-17 08:52:22.962] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 6.97 seconds.
+[2025-03-17 08:52:23.001] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.01 seconds.
+[2025-03-17 08:52:23.039] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.04 seconds.
+[2025-03-17 08:52:23.077] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.08 seconds.
+[2025-03-17 08:52:23.122] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.13 seconds.
+[2025-03-17 08:52:23.172] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.17 seconds.
+[2025-03-17 08:52:23.211] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.21 seconds.
+[2025-03-17 08:52:23.257] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.26 seconds.
+[2025-03-17 08:52:23.296] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.29 seconds.
+[2025-03-17 08:52:23.340] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.34 seconds.
+[2025-03-17 08:52:23.392] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.39 seconds.
+[2025-03-17 08:52:23.439] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.43 seconds.
+[2025-03-17 08:52:23.473] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.47 seconds.
+[2025-03-17 08:52:23.508] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.51 seconds.
+[2025-03-17 08:52:23.544] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.54 seconds.
+[2025-03-17 08:52:23.613] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.60 seconds.
+[2025-03-17 08:52:23.662] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.66 seconds.
+[2025-03-17 08:52:23.703] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.70 seconds.
+[2025-03-17 08:52:23.744] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.74 seconds.
+[2025-03-17 08:52:23.799] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.79 seconds.
+[2025-03-17 08:52:23.840] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.83 seconds.
+[2025-03-17 08:52:23.877] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.86 seconds.
+[2025-03-17 08:52:23.912] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.90 seconds.
+[2025-03-17 08:52:23.955] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 7.94 seconds.
+[2025-03-17 08:52:24.009] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.00 seconds.
+[2025-03-17 08:52:24.072] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.05 seconds.
+[2025-03-17 08:52:24.110] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.09 seconds.
+[2025-03-17 08:52:24.153] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.13 seconds.
+[2025-03-17 08:52:24.187] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.17 seconds.
+[2025-03-17 08:52:24.223] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.20 seconds.
+[2025-03-17 08:52:24.266] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.24 seconds.
+[2025-03-17 08:52:24.324] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.30 seconds.
+[2025-03-17 08:52:24.363] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.34 seconds.
+[2025-03-17 08:52:24.400] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.38 seconds.
+[2025-03-17 08:52:24.429] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.41 seconds.
+[2025-03-17 08:52:24.472] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.45 seconds.
+[2025-03-17 08:52:24.520] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.49 seconds.
+[2025-03-17 08:52:24.564] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.54 seconds.
+[2025-03-17 08:52:24.602] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.58 seconds.
+[2025-03-17 08:52:24.641] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.62 seconds.
+[2025-03-17 08:52:24.689] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.68 seconds.
+[2025-03-17 08:52:24.742] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.74 seconds.
+[2025-03-17 08:52:24.786] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.76 seconds.
+[2025-03-17 08:52:24.830] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.79 seconds.
+[2025-03-17 08:52:24.870] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.83 seconds.
+[2025-03-17 08:52:24.915] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.89 seconds.
+[2025-03-17 08:52:24.970] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.94 seconds.
+[2025-03-17 08:52:25.006] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 8.98 seconds.
+[2025-03-17 08:52:25.044] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.02 seconds.
+[2025-03-17 08:52:25.204] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.18 seconds.
+[2025-03-17 08:52:25.237] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.21 seconds.
+[2025-03-17 08:52:25.275] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.25 seconds.
+[2025-03-17 08:52:25.320] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.29 seconds.
+[2025-03-17 08:52:25.355] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.33 seconds.
+[2025-03-17 08:52:25.393] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.39 seconds.
+[2025-03-17 08:52:25.428] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.40 seconds.
+[2025-03-17 08:52:25.481] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.48 seconds.
+[2025-03-17 08:52:25.527] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.51 seconds.
+[2025-03-17 08:52:25.563] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.52 seconds.
+[2025-03-17 08:52:25.597] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.55 seconds.
+[2025-03-17 08:52:25.626] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.59 seconds.
+[2025-03-17 08:52:25.666] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.60 seconds.
+[2025-03-17 08:52:25.725] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.67 seconds.
+[2025-03-17 08:52:25.778] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.76 seconds.
+[2025-03-17 08:52:25.822] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.78 seconds.
+[2025-03-17 08:52:25.856] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.80 seconds.
+[2025-03-17 08:52:25.895] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.86 seconds.
+[2025-03-17 08:52:25.947] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 9.92 seconds.
+[2025-03-17 08:52:26.006] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.01 seconds.
+[2025-03-17 08:52:26.050] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.01 seconds.
+[2025-03-17 08:52:26.091] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.06 seconds.
+[2025-03-17 08:52:26.139] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.10 seconds.
+[2025-03-17 08:52:26.185] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.15 seconds.
+[2025-03-17 08:52:26.233] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.20 seconds.
+[2025-03-17 08:52:26.278] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.24 seconds.
+[2025-03-17 08:52:26.316] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.28 seconds.
+[2025-03-17 08:52:26.352] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.34 seconds.
+[2025-03-17 08:52:26.396] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.36 seconds.
+[2025-03-17 08:52:26.447] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.42 seconds.
+[2025-03-17 08:52:26.489] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.45 seconds.
+[2025-03-17 08:52:26.524] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.49 seconds.
+[2025-03-17 08:52:26.553] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.51 seconds.
+[2025-03-17 08:52:26.594] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.55 seconds.
+[2025-03-17 08:52:26.645] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.61 seconds.
+[2025-03-17 08:52:26.690] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.65 seconds.
+[2025-03-17 08:52:26.726] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.72 seconds.
+[2025-03-17 08:52:26.762] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.73 seconds.
+[2025-03-17 08:52:26.804] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.75 seconds.
+[2025-03-17 08:52:26.851] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.79 seconds.
+[2025-03-17 08:52:26.905] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.85 seconds.
+[2025-03-17 08:52:26.947] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.91 seconds.
+[2025-03-17 08:52:26.986] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.94 seconds.
+[2025-03-17 08:52:27.024] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 10.98 seconds.
+[2025-03-17 08:52:27.069] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.02 seconds.
+[2025-03-17 08:52:27.127] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.08 seconds.
+[2025-03-17 08:52:27.167] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.12 seconds.
+[2025-03-17 08:52:27.203] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.16 seconds.
+[2025-03-17 08:52:27.238] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.19 seconds.
+[2025-03-17 08:52:27.281] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.23 seconds.
+[2025-03-17 08:52:27.326] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.27 seconds.
+[2025-03-17 08:52:27.378] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.33 seconds.
+[2025-03-17 08:52:27.426] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.38 seconds.
+[2025-03-17 08:52:27.480] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.42 seconds.
+[2025-03-17 08:52:27.531] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.49 seconds.
+[2025-03-17 08:52:27.573] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.56 seconds.
+[2025-03-17 08:52:27.601] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.55 seconds.
+[2025-03-17 08:52:27.639] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.59 seconds.
+[2025-03-17 08:52:27.675] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.63 seconds.
+[2025-03-17 08:52:27.709] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.65 seconds.
+[2025-03-17 08:52:27.759] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.70 seconds.
+[2025-03-17 08:52:27.809] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.78 seconds.
+[2025-03-17 08:52:27.855] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.82 seconds.
+[2025-03-17 08:52:27.892] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.83 seconds.
+[2025-03-17 08:52:27.927] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.91 seconds.
+[2025-03-17 08:52:27.977] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.93 seconds.
+[2025-03-17 08:52:28.025] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 11.97 seconds.
+[2025-03-17 08:52:28.135] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.08 seconds.
+[2025-03-17 08:52:28.172] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.12 seconds.
+[2025-03-17 08:52:28.217] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.17 seconds.
+[2025-03-17 08:52:28.257] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.21 seconds.
+[2025-03-17 08:52:28.292] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.24 seconds.
+[2025-03-17 08:52:28.331] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.31 seconds.
+[2025-03-17 08:52:28.365] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.30 seconds.
+[2025-03-17 08:52:28.403] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.38 seconds.
+[2025-03-17 08:52:28.473] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.45 seconds.
+[2025-03-17 08:52:28.514] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.50 seconds.
+[2025-03-17 08:52:28.549] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.52 seconds.
+[2025-03-17 08:52:28.582] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.53 seconds.
+[2025-03-17 08:52:28.613] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.56 seconds.
+[2025-03-17 08:52:28.650] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.66 seconds.
+[2025-03-17 08:52:28.708] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.64 seconds.
+[2025-03-17 08:52:28.758] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.77 seconds.
+[2025-03-17 08:52:28.796] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.73 seconds.
+[2025-03-17 08:52:28.835] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.82 seconds.
+[2025-03-17 08:52:28.873] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.81 seconds.
+[2025-03-17 08:52:28.913] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.90 seconds.
+[2025-03-17 08:52:28.967] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.95 seconds.
+[2025-03-17 08:52:29.007] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.00 seconds.
+[2025-03-17 08:52:29.038] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 12.98 seconds.
+[2025-03-17 08:52:29.076] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.05 seconds.
+[2025-03-17 08:52:29.114] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.09 seconds.
+[2025-03-17 08:52:29.166] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.16 seconds.
+[2025-03-17 08:52:29.209] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.21 seconds.
+[2025-03-17 08:52:29.243] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.24 seconds.
+[2025-03-17 08:52:29.276] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.25 seconds.
+[2025-03-17 08:52:29.313] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.26 seconds.
+[2025-03-17 08:52:29.345] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.34 seconds.
+[2025-03-17 08:52:29.393] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.36 seconds.
+[2025-03-17 08:52:29.444] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.41 seconds.
+[2025-03-17 08:52:29.496] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.51 seconds.
+[2025-03-17 08:52:29.537] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.56 seconds.
+[2025-03-17 08:52:29.576] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.56 seconds.
+[2025-03-17 08:52:29.618] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.63 seconds.
+[2025-03-17 08:52:29.666] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.68 seconds.
+[2025-03-17 08:52:29.736] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.75 seconds.
+[2025-03-17 08:52:29.774] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.79 seconds.
+[2025-03-17 08:52:29.830] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.84 seconds.
+[2025-03-17 08:52:29.882] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.90 seconds.
+[2025-03-17 08:52:29.924] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.94 seconds.
+[2025-03-17 08:52:29.961] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 13.97 seconds.
+[2025-03-17 08:52:29.997] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.00 seconds.
+[2025-03-17 08:52:30.033] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.04 seconds.
+[2025-03-17 08:52:30.069] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.07 seconds.
+[2025-03-17 08:52:30.127] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.13 seconds.
+[2025-03-17 08:52:30.177] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.18 seconds.
+[2025-03-17 08:52:30.218] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.22 seconds.
+[2025-03-17 08:52:30.256] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.25 seconds.
+[2025-03-17 08:52:30.297] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.30 seconds.
+[2025-03-17 08:52:30.348] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.35 seconds.
+[2025-03-17 08:52:30.393] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.38 seconds.
+[2025-03-17 08:52:30.430] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.44 seconds.
+[2025-03-17 08:52:30.466] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.45 seconds.
+[2025-03-17 08:52:30.511] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.49 seconds.
+[2025-03-17 08:52:30.555] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.52 seconds.
+[2025-03-17 08:52:30.617] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.59 seconds.
+[2025-03-17 08:52:30.655] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.60 seconds.
+[2025-03-17 08:52:30.697] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.64 seconds.
+[2025-03-17 08:52:30.744] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.71 seconds.
+[2025-03-17 08:52:30.789] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.72 seconds.
+[2025-03-17 08:52:30.843] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.79 seconds.
+[2025-03-17 08:52:30.885] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.82 seconds.
+[2025-03-17 08:52:30.923] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 14.89 seconds.
+[2025-03-17 08:52:31.075] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.04 seconds.
+[2025-03-17 08:52:31.106] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.10 seconds.
+[2025-03-17 08:52:31.149] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.16 seconds.
+[2025-03-17 08:52:31.183] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.15 seconds.
+[2025-03-17 08:52:31.215] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.21 seconds.
+[2025-03-17 08:52:31.257] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.25 seconds.
+[2025-03-17 08:52:31.311] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.28 seconds.
+[2025-03-17 08:52:31.361] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.33 seconds.
+[2025-03-17 08:52:31.397] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.36 seconds.
+[2025-03-17 08:52:31.432] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.41 seconds.
+[2025-03-17 08:52:31.473] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.44 seconds.
+[2025-03-17 08:52:31.515] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.47 seconds.
+[2025-03-17 08:52:31.563] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.54 seconds.
+[2025-03-17 08:52:31.603] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.56 seconds.
+[2025-03-17 08:52:31.640] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.58 seconds.
+[2025-03-17 08:52:31.680] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.63 seconds.
+[2025-03-17 08:52:31.732] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.69 seconds.
+[2025-03-17 08:52:31.801] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.76 seconds.
+[2025-03-17 08:52:31.842] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.78 seconds.
+[2025-03-17 08:52:31.879] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.83 seconds.
+[2025-03-17 08:52:31.920] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.86 seconds.
+[2025-03-17 08:52:31.980] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.93 seconds.
+[2025-03-17 08:52:32.023] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 15.99 seconds.
+[2025-03-17 08:52:32.065] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.02 seconds.
+[2025-03-17 08:52:32.103] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.05 seconds.
+[2025-03-17 08:52:32.140] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.11 seconds.
+[2025-03-17 08:52:32.186] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.14 seconds.
+[2025-03-17 08:52:32.233] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.18 seconds.
+[2025-03-17 08:52:32.275] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.22 seconds.
+[2025-03-17 08:52:32.308] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.28 seconds.
+[2025-03-17 08:52:32.344] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.29 seconds.
+[2025-03-17 08:52:32.385] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.32 seconds.
+[2025-03-17 08:52:32.432] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.40 seconds.
+[2025-03-17 08:52:32.480] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.43 seconds.
+[2025-03-17 08:52:32.518] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.46 seconds.
+[2025-03-17 08:52:32.553] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.50 seconds.
+[2025-03-17 08:52:32.603] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.59 seconds.
+[2025-03-17 08:52:32.657] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.62 seconds.
+[2025-03-17 08:52:32.699] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.64 seconds.
+[2025-03-17 08:52:32.739] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.73 seconds.
+[2025-03-17 08:52:32.779] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.77 seconds.
+[2025-03-17 08:52:32.836] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.82 seconds.
+[2025-03-17 08:52:32.888] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.84 seconds.
+[2025-03-17 08:52:32.935] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.92 seconds.
+[2025-03-17 08:52:32.978] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 16.96 seconds.
+[2025-03-17 08:52:33.020] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.00 seconds.
+[2025-03-17 08:52:33.073] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.02 seconds.
+[2025-03-17 08:52:33.119] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.10 seconds.
+[2025-03-17 08:52:33.156] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.17 seconds.
+[2025-03-17 08:52:33.192] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.16 seconds.
+[2025-03-17 08:52:33.229] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.18 seconds.
+[2025-03-17 08:52:33.279] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.27 seconds.
+[2025-03-17 08:52:33.324] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.29 seconds.
+[2025-03-17 08:52:33.369] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.31 seconds.
+[2025-03-17 08:52:33.412] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.40 seconds.
+[2025-03-17 08:52:33.444] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.40 seconds.
+[2025-03-17 08:52:33.486] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.46 seconds.
+[2025-03-17 08:52:33.536] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.48 seconds.
+[2025-03-17 08:52:33.587] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.57 seconds.
+[2025-03-17 08:52:33.625] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.61 seconds.
+[2025-03-17 08:52:33.665] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.66 seconds.
+[2025-03-17 08:52:33.716] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.70 seconds.
+[2025-03-17 08:52:33.770] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.74 seconds.
+[2025-03-17 08:52:33.808] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.76 seconds.
+[2025-03-17 08:52:33.844] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.81 seconds.
+[2025-03-17 08:52:33.871] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.86 seconds.
+[2025-03-17 08:52:33.913] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 17.86 seconds.
+[2025-03-17 08:52:34.056] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.02 seconds.
+[2025-03-17 08:52:34.095] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.05 seconds.
+[2025-03-17 08:52:34.132] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.10 seconds.
+[2025-03-17 08:52:34.165] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.12 seconds.
+[2025-03-17 08:52:34.198] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.13 seconds.
+[2025-03-17 08:52:34.235] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.20 seconds.
+[2025-03-17 08:52:34.278] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.23 seconds.
+[2025-03-17 08:52:34.327] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.32 seconds.
+[2025-03-17 08:52:34.370] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.34 seconds.
+[2025-03-17 08:52:34.405] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.37 seconds.
+[2025-03-17 08:52:34.450] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.42 seconds.
+[2025-03-17 08:52:34.498] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.44 seconds.
+[2025-03-17 08:52:34.551] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.56 seconds.
+[2025-03-17 08:52:34.590] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.59 seconds.
+[2025-03-17 08:52:34.629] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.64 seconds.
+[2025-03-17 08:52:34.666] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.66 seconds.
+[2025-03-17 08:52:34.716] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.73 seconds.
+[2025-03-17 08:52:34.765] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.77 seconds.
+[2025-03-17 08:52:34.802] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.75 seconds.
+[2025-03-17 08:52:34.836] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.82 seconds.
+[2025-03-17 08:52:34.876] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.87 seconds.
+[2025-03-17 08:52:34.924] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.92 seconds.
+[2025-03-17 08:52:34.968] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 18.94 seconds.
+[2025-03-17 08:52:35.016] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.00 seconds.
+[2025-03-17 08:52:35.051] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.03 seconds.
+[2025-03-17 08:52:35.089] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.08 seconds.
+[2025-03-17 08:52:35.134] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.14 seconds.
+[2025-03-17 08:52:35.183] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.17 seconds.
+[2025-03-17 08:52:35.227] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.21 seconds.
+[2025-03-17 08:52:35.264] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.20 seconds.
+[2025-03-17 08:52:35.296] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.30 seconds.
+[2025-03-17 08:52:35.336] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.35 seconds.
+[2025-03-17 08:52:35.386] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.38 seconds.
+[2025-03-17 08:52:35.433] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.44 seconds.
+[2025-03-17 08:52:35.477] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.49 seconds.
+[2025-03-17 08:52:35.548] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.56 seconds.
+[2025-03-17 08:52:35.605] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.62 seconds.
+[2025-03-17 08:52:35.645] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.64 seconds.
+[2025-03-17 08:52:35.686] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.70 seconds.
+[2025-03-17 08:52:35.725] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.73 seconds.
+[2025-03-17 08:52:35.785] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.78 seconds.
+[2025-03-17 08:52:35.840] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.85 seconds.
+[2025-03-17 08:52:35.884] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.88 seconds.
+[2025-03-17 08:52:35.931] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.92 seconds.
+[2025-03-17 08:52:35.969] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 19.95 seconds.
+[2025-03-17 08:52:36.035] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.02 seconds.
+[2025-03-17 08:52:36.080] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.06 seconds.
+[2025-03-17 08:52:36.114] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.09 seconds.
+[2025-03-17 08:52:36.159] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.14 seconds.
+[2025-03-17 08:52:36.202] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.20 seconds.
+[2025-03-17 08:52:36.267] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.25 seconds.
+[2025-03-17 08:52:36.321] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.30 seconds.
+[2025-03-17 08:52:36.365] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.36 seconds.
+[2025-03-17 08:52:36.410] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.40 seconds.
+[2025-03-17 08:52:36.450] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.44 seconds.
+[2025-03-17 08:52:36.594] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.56 seconds.
+[2025-03-17 08:52:36.634] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.61 seconds.
+[2025-03-17 08:52:36.674] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.67 seconds.
+[2025-03-17 08:52:36.714] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.68 seconds.
+[2025-03-17 08:52:36.751] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.74 seconds.
+[2025-03-17 08:52:36.797] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.76 seconds.
+[2025-03-17 08:52:36.856] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.82 seconds.
+[2025-03-17 08:52:36.908] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.88 seconds.
+[2025-03-17 08:52:36.945] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.91 seconds.
+[2025-03-17 08:52:36.988] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.95 seconds.
+[2025-03-17 08:52:37.027] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 20.98 seconds.
+[2025-03-17 08:52:37.086] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.06 seconds.
+[2025-03-17 08:52:37.137] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.09 seconds.
+[2025-03-17 08:52:37.170] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.13 seconds.
+[2025-03-17 08:52:37.210] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.15 seconds.
+[2025-03-17 08:52:37.251] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.20 seconds.
+[2025-03-17 08:52:37.303] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.28 seconds.
+[2025-03-17 08:52:37.356] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.30 seconds.
+[2025-03-17 08:52:37.392] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.33 seconds.
+[2025-03-17 08:52:37.437] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.38 seconds.
+[2025-03-17 08:52:37.481] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.42 seconds.
+[2025-03-17 08:52:37.536] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.48 seconds.
+[2025-03-17 08:52:37.583] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.55 seconds.
+[2025-03-17 08:52:37.628] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.58 seconds.
+[2025-03-17 08:52:37.668] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.65 seconds.
+[2025-03-17 08:52:37.700] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.64 seconds.
+[2025-03-17 08:52:37.761] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.70 seconds.
+[2025-03-17 08:52:37.816] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.78 seconds.
+[2025-03-17 08:52:37.857] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.79 seconds.
+[2025-03-17 08:52:37.898] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.84 seconds.
+[2025-03-17 08:52:37.944] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.91 seconds.
+[2025-03-17 08:52:38.000] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 21.96 seconds.
+[2025-03-17 08:52:38.053] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.00 seconds.
+[2025-03-17 08:52:38.095] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.08 seconds.
+[2025-03-17 08:52:38.134] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.09 seconds.
+[2025-03-17 08:52:38.175] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.11 seconds.
+[2025-03-17 08:52:38.233] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.18 seconds.
+[2025-03-17 08:52:38.282] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.22 seconds.
+[2025-03-17 08:52:38.321] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.26 seconds.
+[2025-03-17 08:52:38.360] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.32 seconds.
+[2025-03-17 08:52:38.396] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.39 seconds.
+[2025-03-17 08:52:38.442] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.41 seconds.
+[2025-03-17 08:52:38.502] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.50 seconds.
+[2025-03-17 08:52:38.539] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.53 seconds.
+[2025-03-17 08:52:38.570] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.52 seconds.
+[2025-03-17 08:52:38.609] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.59 seconds.
+[2025-03-17 08:52:38.660] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.65 seconds.
+[2025-03-17 08:52:38.718] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.70 seconds.
+[2025-03-17 08:52:38.758] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.70 seconds.
+[2025-03-17 08:52:38.793] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.77 seconds.
+[2025-03-17 08:52:38.827] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.82 seconds.
+[2025-03-17 08:52:38.872] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.82 seconds.
+[2025-03-17 08:52:38.917] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.90 seconds.
+[2025-03-17 08:52:38.959] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.95 seconds.
+[2025-03-17 08:52:39.000] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.00 seconds.
+[2025-03-17 08:52:39.038] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 22.98 seconds.
+[2025-03-17 08:52:39.090] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.06 seconds.
+[2025-03-17 08:52:39.137] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.10 seconds.
+[2025-03-17 08:52:39.241] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.20 seconds.
+[2025-03-17 08:52:39.280] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.29 seconds.
+[2025-03-17 08:52:39.338] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.31 seconds.
+[2025-03-17 08:52:39.374] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.33 seconds.
+[2025-03-17 08:52:39.419] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.36 seconds.
+[2025-03-17 08:52:39.456] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.41 seconds.
+[2025-03-17 08:52:39.494] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.44 seconds.
+[2025-03-17 08:52:39.544] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.51 seconds.
+[2025-03-17 08:52:39.603] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.54 seconds.
+[2025-03-17 08:52:39.647] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.60 seconds.
+[2025-03-17 08:52:39.683] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.63 seconds.
+[2025-03-17 08:52:39.721] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.67 seconds.
+[2025-03-17 08:52:39.772] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.77 seconds.
+[2025-03-17 08:52:39.818] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.80 seconds.
+[2025-03-17 08:52:39.859] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.82 seconds.
+[2025-03-17 08:52:39.904] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.89 seconds.
+[2025-03-17 08:52:39.946] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 23.95 seconds.
+[2025-03-17 08:52:40.021] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.01 seconds.
+[2025-03-17 08:52:40.069] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.06 seconds.
+[2025-03-17 08:52:40.111] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.11 seconds.
+[2025-03-17 08:52:40.144] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.16 seconds.
+[2025-03-17 08:52:40.178] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.17 seconds.
+[2025-03-17 08:52:40.246] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.26 seconds.
+[2025-03-17 08:52:40.297] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.24 seconds.
+[2025-03-17 08:52:40.336] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.32 seconds.
+[2025-03-17 08:52:40.374] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.36 seconds.
+[2025-03-17 08:52:40.410] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.39 seconds.
+[2025-03-17 08:52:40.456] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.46 seconds.
+[2025-03-17 08:52:40.501] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.45 seconds.
+[2025-03-17 08:52:40.542] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.49 seconds.
+[2025-03-17 08:52:40.575] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.53 seconds.
+[2025-03-17 08:52:40.609] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.60 seconds.
+[2025-03-17 08:52:40.722] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.73 seconds.
+[2025-03-17 08:52:40.772] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.77 seconds.
+[2025-03-17 08:52:40.813] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.77 seconds.
+[2025-03-17 08:52:40.860] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.82 seconds.
+[2025-03-17 08:52:40.904] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.84 seconds.
+[2025-03-17 08:52:40.953] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.89 seconds.
+[2025-03-17 08:52:41.006] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 24.94 seconds.
+[2025-03-17 08:52:41.052] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.06 seconds.
+[2025-03-17 08:52:41.102] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.04 seconds.
+[2025-03-17 08:52:41.149] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.10 seconds.
+[2025-03-17 08:52:41.206] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.20 seconds.
+[2025-03-17 08:52:41.257] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.21 seconds.
+[2025-03-17 08:52:41.301] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.29 seconds.
+[2025-03-17 08:52:41.340] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.31 seconds.
+[2025-03-17 08:52:41.382] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.37 seconds.
+[2025-03-17 08:52:41.439] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.44 seconds.
+[2025-03-17 08:52:41.494] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.46 seconds.
+[2025-03-17 08:52:41.534] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.50 seconds.
+[2025-03-17 08:52:41.577] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.53 seconds.
+[2025-03-17 08:52:41.624] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.59 seconds.
+[2025-03-17 08:52:41.677] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.66 seconds.
+[2025-03-17 08:52:41.723] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.70 seconds.
+[2025-03-17 08:52:41.823] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.76 seconds.
+[2025-03-17 08:52:41.865] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.87 seconds.
+[2025-03-17 08:52:41.926] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.89 seconds.
+[2025-03-17 08:52:41.967] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.92 seconds.
+[2025-03-17 08:52:42.000] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 25.98 seconds.
+[2025-03-17 08:52:42.029] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.01 seconds.
+[2025-03-17 08:52:42.066] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.06 seconds.
+[2025-03-17 08:52:42.101] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.06 seconds.
+[2025-03-17 08:52:42.156] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.13 seconds.
+[2025-03-17 08:52:42.206] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.21 seconds.
+[2025-03-17 08:52:42.256] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.25 seconds.
+[2025-03-17 08:52:42.290] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.28 seconds.
+[2025-03-17 08:52:42.381] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.32 seconds.
+[2025-03-17 08:52:42.427] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.42 seconds.
+[2025-03-17 08:52:42.463] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.44 seconds.
+[2025-03-17 08:52:42.503] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.49 seconds.
+[2025-03-17 08:52:42.541] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.52 seconds.
+[2025-03-17 08:52:42.636] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.58 seconds.
+[2025-03-17 08:52:42.687] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.65 seconds.
+[2025-03-17 08:52:42.738] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.71 seconds.
+[2025-03-17 08:52:42.783] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.77 seconds.
+[2025-03-17 08:52:42.823] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.79 seconds.
+[2025-03-17 08:52:42.890] INFO         get_data_by_link data_parser:59 - Finished reading. Execution time 26.86 seconds.
+[2025-03-17 08:53:03.354] INFO              write_to_db data_parser:68 - Start writing results to db.
+[2025-03-17 08:53:04.404] INFO              write_to_db data_parser:72 - Finished writing results to db. Execution time 1.05 seconds.
+[2025-03-17 08:53:11.973] WARNING  parse_trading_results data_parser:95 - Parsed and saved trading results. Execution time 56.09 seconds.
+[2025-03-17 08:53:12.151] WARNING                  main main:22 - Finished. Execution time 87.78 seconds.
