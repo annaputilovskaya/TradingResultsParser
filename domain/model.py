@@ -2,21 +2,22 @@ from datetime import datetime
 
 
 class TradingResult:
-    """Trading result.
+    """
+    Trading result.
 
-        Attributes:
-            exchange_product_id (str): The exchange product ID.
-            exchange_product_name (str): The exchange product name.
-            oil_id (str): The oil ID.
-            delivery_basis_id (str): The delivery basis ID.
-            delivery_basis_name (str): The delivery basis name.
-            delivery_type_id (str): The delivery type ID.
-            volume (int): The volume of contracts in tones.
-            total (int): The total value of contracts in rubles.
-            count (int): The count of contracts.
-            date (str): The date of trading.
-            created_on (datetime): The date and time when the result was created.
-            updated_on (datetime): The date and time when the result was updated.
+    Attributes:
+        exchange_product_id (str): The exchange product ID.
+        exchange_product_name (str): The exchange product name.
+        oil_id (str): The oil ID.
+        delivery_basis_id (str): The delivery basis ID.
+        delivery_basis_name (str): The delivery basis name.
+        delivery_type_id (str): The delivery type ID.
+        volume (int): The volume of contracts in tones.
+        total (int): The total value of contracts in rubles.
+        count (int): The count of contracts.
+        date (str): The date of trading.
+        created_on (datetime): The date and time when the result was created.
+        updated_on (datetime): The date and time when the result was updated.
     """
 
     def __init__(
