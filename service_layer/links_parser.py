@@ -1,3 +1,4 @@
+import asyncio
 import logging
 import re
 from time import time
@@ -44,6 +45,39 @@ async def get_html(url: str, session: ClientSession) -> str | None:
         raise e
 
 
+def extract_links_from_response(
+    response: str, earliest_date: str, links: set[str], is_new: bool
+) -> tuple[set[str], bool]:
+    """
+    Extracts links to XLS files with daily trading results from the given HTML response.
+
+    Args:
+        response (str): The HTML response containing the trading results.
+        earliest_date (str): The earliest date to consider in the format "YYYYMMDD".
+        links (set[str]): The set of links to add new ones to.
+        is_new (bool): A boolean indicating if new links were found.
+
+    Returns:
+        tuple[set[str], bool]: The updated set of links and a boolean indicating if new links were found.
+    """
+    soup = BeautifulSoup(response, "html.parser")
+    block = soup.find("div", class_="accordeon-inner")
+    items = block.select(
+        "div.accordeon-inner__wrap-item",
+    )
+    for item in items:
+        string = item.find("a")
+        link = string.get("href")
+        if link:
+            date = get_date_from_link(link)
+            if date >= earliest_date:
+                links.add(link)
+            else:
+                is_new = False
+                break
+    return links, is_new
+
+
 async def get_new_trading_results_links(
     session: ClientSession, earliest_date: str = "20230101"
 ) -> set[str]:
@@ -65,21 +99,9 @@ async def get_new_trading_results_links(
     while is_new:
         url = f"{RESULTS_URL}?page=page-{page_num}"
         response = await get_html(url=url, session=session)
-        soup = BeautifulSoup(response, "html.parser")
-        block = soup.find("div", class_="accordeon-inner")
-        items = block.select(
-            "div.accordeon-inner__wrap-item",
+        links, is_new = await asyncio.to_thread(
+            extract_links_from_response, response, earliest_date, links, is_new
         )
-        for item in items:
-            string = item.find("a")
-            link = string.get("href")
-            if link:
-                date = get_date_from_link(link)
-                if date >= earliest_date:
-                    links.add(link)
-                else:
-                    is_new = False
-                    break
         page_num += 1
     log.warning(
         f"Got links from the website. Execution time {time() - t0:.2f} seconds."
