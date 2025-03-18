@@ -24,7 +24,7 @@ async def main(earliest_date: str = "20230101"):
     async with ClientSession() as session:
         links = await get_new_trading_results_links(session, earliest_date)
     await parse_trading_results(links)
-    log.warning(f"Finished. Execution time {time() - t0:.2f} seconds.")
+    log.warning(f"Finished. Execution time {time() - t0:.3f} seconds.")
 
 
 if __name__ == "__main__":

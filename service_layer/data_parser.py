@@ -76,7 +76,7 @@ async def get_data_by_link(link: str) -> pd.DataFrame | None:
         except Exception as e:
             log.error(f"Error extracting data from {filepath}: {e}")
         else:
-            log.info(f"Finished reading. Execution time {time() - t0:.2f} seconds.")
+            log.info(f"Finished reading. Execution time {time() - t0:.3f} seconds.")
             return df, link
 
 
@@ -93,7 +93,7 @@ async def write_to_db(results_list: list) -> None:
         session.add_all(results_list)
         try:
             log.info(
-                f"Finished writing results to db. Execution time {time() - t0:.2f} seconds."
+                f"Finished writing results to db. Execution time {time() - t0:.3f} seconds."
             )
             await session.commit()
         except Exception as e:
@@ -119,5 +119,5 @@ async def parse_trading_results(links: set) -> None:
         results_list.extend(list(generate_trading_result_objects(df[0], df[1])))
     await write_to_db(results_list)
     log.warning(
-        f"Parsed and saved trading results. Execution time {time() - t0:.2f} seconds."
+        f"Parsed and saved trading results. Execution time {time() - t0:.3f} seconds."
     )

@@ -104,6 +104,6 @@ async def get_new_trading_results_links(
         )
         page_num += 1
     log.warning(
-        f"Got links from the website. Execution time {time() - t0:.2f} seconds."
+        f"Got links from the website. Execution time {time() - t0:.3f} seconds."
     )
     return links
