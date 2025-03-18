@@ -72,7 +72,7 @@ async def get_data_by_link(link: str) -> pd.DataFrame | None:
         log.info(f"Started reading {filepath}")
         data = await get_bytes(filepath, session)
         try:
-            df = extract_data_from_file(data=data)
+            df = await asyncio.to_thread(extract_data_from_file, data=data)
         except Exception as e:
             log.error(f"Error extracting data from {filepath}: {e}")
         else:
